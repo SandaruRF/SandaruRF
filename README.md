@@ -1,6 +1,6 @@
 ### 👋 Welcome to my GitHub Profile!
 
-I'm Sandaru Fernando.
+I'm Sandaru Fernando, an AI undergraduate at University of Moratuwa with a fervent passion for robotics.
 
 <!--
 **SandaruRF/SandaruRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
