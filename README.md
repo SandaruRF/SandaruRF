@@ -2,6 +2,9 @@
 
 I'm Sandaru Fernando, an AI undergraduate at University of Moratuwa with a fervent passion for robotics.
 
+🤖 About Me:
+I'm on a thrilling journey to merge the realms of artificial intelligence and robotics. My academic pursuits at University of Moratuwa have equipped me with a strong foundation in AI theory and applications, and I'm constantly seeking opportunities to bridge theory and practice.
+
 <!--
 **SandaruRF/SandaruRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
