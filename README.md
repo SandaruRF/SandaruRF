@@ -24,51 +24,102 @@
 </p>
 
 <div id="user-content-toc">
-  <ul align="center">
+  <ul>
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->    
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,clion,idea,visualstudio&perline=14" />
+<!--tech stack icons--> 
+<p>Version Control & Development Tools:</p>
+<p>
+  <a href="#">
+    <div style="display: flex; gap: 0px;">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/clion-dark.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/intellijidea-dark.svg" width="40">
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="40" />
+    </div>
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,php&perline=14" />
+<p>Programming Languages:</p>
+<p>
+  <a href="#">
+    <div style="display: flex; gap: 0px;">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/c-dark.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/cpp-light.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/cs-dark.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-dark.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/php-dark.svg" width="40">
+    </div>
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,react,nodejs,fastapi&perline=14" />
+<p>Web Development:</p>
+<p>
+  <a href="#">
+    <div style="display: flex; gap: 0px;">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="40">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" />
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/materialui-dark.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs-dark.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/fastapi.svg" width="40">
+    </div>
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=14" />
+<p>Databases:</p>
+<p>
+  <a href="#">
+    <div style="display: flex; gap: 0px;">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-dark.svg" width="40">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="40" />
+    </div>
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&perline=14" />
+<p>AI & Machine Learning:</p>
+<p>
+  <a href="#">
+    <div style="display: flex; gap: 0px;">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/tensorflow-dark.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/opencv-dark.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/openai-dark.svg" width="40">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="40" />
+    </div>
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=selenium&perline=14" />
+<p>Automation & Testing:</p>
+<p>
+  <a href="">
+    <div style="display: flex; gap: 0px;">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/selenium.svg" width="40">
+    </div>
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=14" />
+<p>Embedded Systems & Hardware:</p>
+<p>
+  <a href="#">
+    <div style="display: flex; gap: 0px;">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/arduino-dark.svg" width="40">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/rasberrypi-dark.svg" width="40">
+    </div>
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&perline=14" />
+<p>Operating Systems & Hardware:</p>
+<p>
+  <a href="#">
+    <div style="display: flex; gap: 0px;">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" />
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="40" />
+      <img src="https://skillicons.dev/icons?i=windows" width="40" />
+    </div>
   </a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandarurf&show_icons=true&locale=en&layout=compact" alt="sandarurf" /></p>
 
