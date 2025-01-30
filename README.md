@@ -2,6 +2,9 @@
 <h3 align="center">A passionate AI developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandarurf&label=Profile%20views&color=0e75b6&style=flat" alt="sandarurf" /> </p>
+<p>
+  I'm on a thrilling journey to merge the realms of artificial intelligence and robotics. My academic pursuits at University of Moratuwa have equipped me with a strong foundation in AI theory and applications, and I'm constantly seeking opportunities to bridge theory and practice.
+</p>
 
 - 📫 How to reach me **sandarurf@gmail.com**
 
@@ -89,6 +92,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SandaruRF&show_icons=true&locale=en&layout=compact" alt="sandarurf" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SandaruRF&show_icons=true&locale=en&layout=compact" alt="sandarurf" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SandaruRF&show_icons=true&locale=en" alt="sandarurf" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SandaruRF&show_icons=true&locale=en" alt="sandarurf" /></p>-->
