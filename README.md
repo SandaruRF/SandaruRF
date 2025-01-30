@@ -28,10 +28,45 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+<!--tech stack icons-->    
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,postgres,figma,github,html,java,js,linux,materialui,mongodb,mysql,nodejs,py,react,vscode,arduino,bootstrap,c,cs,cpp,clion,dotnet,fastapi,github,idea,opencv,php,raspberrypi,react,sqlite,sklearn,selenium,tensorflow,ubuntu,visualstudio,vscode,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,clion,idea,visualstudio&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,php&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,react,nodejs,fastapi&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=selenium&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&perline=14" />
   </a>
 </p>
 
