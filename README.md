@@ -10,11 +10,7 @@
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+<h2 style="display: inline-block">Connect With Me🤝</h2>
 
 <!--icons and links-->
 <a href="https://www.linkedin.com/in/sandarurf/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linkedin.svg" alt="linkedin" width="40"></a>
@@ -22,11 +18,7 @@
   
 </p>
 
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+<h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
 
 <!--tech stack icons-->
 <p><strong>AI & Machine Learning:</strong></p>
