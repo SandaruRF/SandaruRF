@@ -38,6 +38,7 @@
   <a href="https://openai.com/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/openai-dark.svg" alt="openai" width="40"></a>
   <a href="https://chromadb.com/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/chroma-dark.svg" alt="chroma" width="40"></a>
   <a href="https://scikit-learn.org/" target="blank"><img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn" width="40"></a>
+  <a href="https://gemini.ai" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s" alt="gemini" width="40" style="border-radius:5"></a>
 </div>
 
 <p><strong>Embedded Systems & Hardware:</strong></p>
