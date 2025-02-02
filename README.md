@@ -65,14 +65,6 @@
       <img src="https://github.com/onemarc/tech-icons/blob/main/icons/chroma-light.svg" alt="chroma" width="35">
     </picture>
   </a>
-  <a href="https://openai.com/" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/openai-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/openai-light.svg">
-      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/openai-light.svg" alt="openai" width="35">
-    </picture>
-  </a>
-  <a href="https://gemini.ai" target="blank"><img src="https://www.pngall.com/wp-content/uploads/16/Google-Gemini-Logo-Transparent-thumb.png" alt="gemini" width="35""></a>
 </div>
 
 <p><strong>Embedded Systems & Hardware:</strong></p>
