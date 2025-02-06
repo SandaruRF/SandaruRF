@@ -67,64 +67,6 @@
   </a>
 </div>
 
-<p><strong>Embedded Systems & Hardware:</strong></p>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://www.arduino.cc/" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/arduino-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/arduino-light.svg">
-      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/arduino-light.svg" alt="arduino" width="35">
-    </picture>
-  </a>
-  <a href="https://www.raspberrypi.org/" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/rasberrypi-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/rasberrypi-light.svg">
-      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/rasberrypi-light.svg" alt="raspberrypi" width="35">
-    </picture>
-  </a>
-</div>
-
-<p><strong>Version Control & Development Tools:</strong></p>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://git-scm.com/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" alt="git" width="35"></a>
-  <a href="https://github.com/" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/github-light.svg">
-      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-light.svg" alt="github" width="35">
-    </picture>
-  </a>
-  <a href="https://code.visualstudio.com/" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-light.svg">
-      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-light.svg" alt="vscode" width="35">
-    </picture>
-  </a>
-  <a href="https://www.jetbrains.com/clion/" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/clion-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/clion-light.svg">
-      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/clion-light.svg" alt="clion" width="35">
-    </picture>
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/intellijidea-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/intellijidea-light.svg">
-      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/intellijidea-light.svg" alt="intellijidea" width="35">
-    </picture>
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=visualstudio">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=visualstudio&theme=light">
-      <img src="https://skillicons.dev/icons?i=visualstudio&theme=light" alt="visualstudio" width="35">
-    </picture>
-  </a>
-</div>
-
 <p><strong>Programming Languages:</strong></p>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank">
@@ -199,6 +141,13 @@
     </picture>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/fastapi.svg" alt="fastapi" width="35"></a>
+  <a href="https://spring.io/projects/spring-boot/" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/spring-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/spring-light.svg">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/spring-light.svg" alt="spring-boot" width="35">
+    </picture>
+  </a>
 </div>
 
 <p><strong>Databases:</strong></p>
@@ -229,6 +178,64 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sqlite">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=sqlite&theme=light">
       <img src="https://skillicons.dev/icons?i=sqlite&theme=light" alt="sqlite" width="35">
+    </picture>
+  </a>
+</div>
+
+<p><strong>Embedded Systems & Hardware:</strong></p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://www.arduino.cc/" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/arduino-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/arduino-light.svg">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/arduino-light.svg" alt="arduino" width="35">
+    </picture>
+  </a>
+  <a href="https://www.raspberrypi.org/" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/rasberrypi-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/rasberrypi-light.svg">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/rasberrypi-light.svg" alt="raspberrypi" width="35">
+    </picture>
+  </a>
+</div>
+
+<p><strong>Version Control & Development Tools:</strong></p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://git-scm.com/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" alt="git" width="35"></a>
+  <a href="https://github.com/" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/github-light.svg">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-light.svg" alt="github" width="35">
+    </picture>
+  </a>
+  <a href="https://code.visualstudio.com/" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-light.svg">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-light.svg" alt="vscode" width="35">
+    </picture>
+  </a>
+  <a href="https://www.jetbrains.com/clion/" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/clion-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/clion-light.svg">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/clion-light.svg" alt="clion" width="35">
+    </picture>
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/intellijidea-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/intellijidea-light.svg">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/intellijidea-light.svg" alt="intellijidea" width="35">
+    </picture>
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=visualstudio">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=visualstudio&theme=light">
+      <img src="https://skillicons.dev/icons?i=visualstudio&theme=light" alt="visualstudio" width="35">
     </picture>
   </a>
 </div>
