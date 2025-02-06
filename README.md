@@ -250,6 +250,7 @@
       <img src="https://github.com/onemarc/tech-icons/blob/main/icons/playwright-light.svg" alt="playwright" width="35">
     </picture>
   </a>
+  <a href="https://www.postman.com/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" alt="postman" width="35"></a>
 </div>
 
 <p><strong>Operating Systems & Hardware:</strong></p>
